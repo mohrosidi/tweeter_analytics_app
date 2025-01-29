@@ -29,7 +29,7 @@ Twitter Analytics App adalah aplikasi berbasis Streamlit yang digunakan untuk me
 1. **Persyaratan yang Diperlukan**
    - Python (>=3.9)
    - Streamlit
-   - Tweepy
+   - Rapidapi key
    - OpenAI API Key
    - Pandas, Matplotlib, Seaborn
 
